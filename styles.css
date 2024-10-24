@@ -86,6 +86,7 @@ button {
 img {
     width: 30vw;
     height: auto;
+    border-radius: 10px;
 }
 
 .div2 {
