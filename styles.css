@@ -189,3 +189,16 @@ img {
     font-weight: 800;
     font-size: 18px;
 }
+
+.footer {
+    text-align: center;
+    background-color: #1f2937;
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.footer p {
+    font-size: 14px;
+    color: #f9faf8;
+}
