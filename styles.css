@@ -156,7 +156,7 @@ img {
 .cfab {
     display: flex;
     background-color: #3882f6;
-    padding: 20px 0;
+    padding: 10px 150px 10px 150px;
     width: 50vw;
     height: 100px;
     margin: 50px auto;
